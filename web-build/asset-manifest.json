@@ -1,0 +1,32 @@
+{
+  "files": {
+    "app.js": "./static/js/app.fc97bce8.chunk.js",
+    "app.js.map": "./static/js/app.fc97bce8.chunk.js.map",
+    "runtime~app.js": "./static/js/runtime~app.30b509be.js",
+    "runtime~app.js.map": "./static/js/runtime~app.30b509be.js.map",
+    "static/js/2.2c2ed76e.chunk.js": "./static/js/2.2c2ed76e.chunk.js",
+    "static/js/2.2c2ed76e.chunk.js.map": "./static/js/2.2c2ed76e.chunk.js.map",
+    "fonts/AntDesign.ttf": "././fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "././fonts/Entypo.ttf",
+    "fonts/FontAwesome.ttf": "././fonts/FontAwesome.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "././fonts/MaterialCommunityIcons.ttf",
+    "favicon-16.png": "./favicon-16.png",
+    "favicon-32.png": "./favicon-32.png",
+    "favicon.ico": "./favicon.ico",
+    "index.html": "./index.html",
+    "manifest.json": "./manifest.json",
+    "serve.json": "./serve.json",
+    "static/js/2.2c2ed76e.chunk.js.LICENSE.txt": "./static/js/2.2c2ed76e.chunk.js.LICENSE.txt",
+    "static/media/annonymous.png": "./static/media/annonymous.ac7bf990.png",
+    "static/media/goBack.png": "./static/media/goBack.ac25f546.png",
+    "static/media/gym.png": "./static/media/gym.4e647648.png",
+    "static/media/out.png": "./static/media/out.d52d54f5.png",
+    "static/media/repair.png": "./static/media/repair.b4ff9b98.png",
+    "static/media/shuttleBus.png": "./static/media/shuttleBus.8b5b8f11.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.30b509be.js",
+    "static/js/2.2c2ed76e.chunk.js",
+    "static/js/app.fc97bce8.chunk.js"
+  ]
+}
